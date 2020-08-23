@@ -1,3 +1,6 @@
+#### Subjects
+ Python(Machine Learning, Deep Learning, Beautiful Soup, Statistis, Cryptography, Data Science, Black-Gray Hat, Computer Science, FullStack, Flask, Django, Pandas, Numpy, 
+ Raspberry PI, Scipy, Scikit, Tensorflow, Pytorch, Games, NLP, Tkinter, Data Analysit), C, C++, Java, SQL
 <hr>
 Books, Guides, Notes and Research Paper
 
@@ -107,7 +110,7 @@ Books, Guides, Notes and Research Paper
 104. <a href='https://drive.google.com/file/d/11A7pcirW0Q0GWBEKEQfNniMnkXQWwPFB/view?usp=sharing'>Python - Learning 5th Edition(O'REILLY)</a>
 105. <a href='https://drive.google.com/file/d/1B4MxKa54oyrzqeYXIKBp1VQgIMekBaLf/view?usp=sharing'>Python - Learning Website Development</a>
 106. <a href='https://drive.google.com/file/d/12ARaoFcN6SFmtVGPN30uHeGpcklJDFbh/view?usp=sharing'>Python - Scipy Learning Notes</a>
-107. <a href='https://drive.google.com/file/d/1SeqTNbnIiYhbUS4_tonR8a2267k7s2ds/view?usp=sharing'></a>
+107. <a href='https://drive.google.com/file/d/1SeqTNbnIiYhbUS4_tonR8a2267k7s2ds/view?usp=sharing'>Python - Introduction to Machine Learning</a>
 108. <a href='https://drive.google.com/file/d/1tURDNUlYXVG9DZ25nd0MJWmf5uV9olG6/view?usp=sharing'>Python - Machine Learning</a>
 109. <a href='https://drive.google.com/file/d/12avIDZYX6-_sJ_SCMGu4RKI03uZgWI4d/view?usp=sharing'>Python - Making Games</a>
 110. <a href='https://drive.google.com/file/d/1XFrO5ZA-M_98ykFqwx-gfrEsWFqlGa3S/view?usp=sharing'>Python - Modeling Creativity</a>
