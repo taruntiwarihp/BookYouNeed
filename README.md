@@ -1,5 +1,5 @@
 #### Subjects
- Python(Machine Learning, Deep Learning, Beautiful Soup, Statistis, Cryptography, Data Science, Black-Gray Hat, Computer Science, FullStack, Flask, Django, Pandas, Numpy, 
+ * Python(Machine Learning, Deep Learning, Beautiful Soup, Statistis, Cryptography, Data Science, Black-Gray Hat, Computer Science, FullStack, Flask, Django, Pandas, Numpy, 
  Raspberry PI, Scipy, Scikit, Tensorflow, Pytorch, Games, NLP, Tkinter, Data Analysit)
  * C
  * C++
@@ -153,14 +153,14 @@ Books, Guides, Notes, Slides Question Papers and Research Papers.
 139. <a href='https://drive.google.com/file/d/1QhUydZRp7dUXwP1jmm9cXxmMk8yhAm78/view?usp=sharing'>Real-World Machine Learning </a>
 140. <a href='https://drive.google.com/file/d/1wYnRqMNLsJWPbPVD-r4m9-YJom0ieKmU/view?usp=sharing'>TensorFlow 2.0</a>
 141. <a href='https://drive.google.com/file/d/1T10UxwhaFHH7xj6h23AYFmol76GGDPtL/view?usp=sharing'>Text Analytics with Python</a>
-142. <a href=''>Linux - Bash Notes for Professionals</a>
-143. <a href=''>The AWK Programming Language</a>
-144. <a href=''>SQL Queries Succinctly</a>
-145. <a href=''>SQL Notes For Professionals</a>
-146. <a href=''>Git Notes For Professionals</a>
-147. <a href=''>Math-Deep</a>
-148. <a href=''>Algorithms Notes For Professionals</a>
-149. <a href=''>Introduction to algorithms</a>
-150. <a href=''>R Programming</a>
-151. <a href=''>R Inferno</a>
-152. <a href=''>R Data Mining Slides</a>
+142. <a href='https://drive.google.com/file/d/1px9-iuGlXl352VkWOOc4-MLmrSYM0NiZ/view?usp=sharing'>Linux - Bash Notes for Professionals</a>
+143. <a href='https://drive.google.com/file/d/1w11XXhhXyMx2CvmPzs2JsabZ3kMxQRgX/view?usp=sharing'>The AWK Programming Language</a>
+144. <a href='https://drive.google.com/file/d/1gtMCG7LMQ09iwlqy2ev_VvakWi9NG6Bg/view?usp=sharing'>SQL Queries Succinctly</a>
+145. <a href='https://drive.google.com/file/d/1ALdKPgIjAv6uerGJDlaVVd6lEhMHMBjN/view?usp=sharing'>SQL Notes For Professionals</a>
+146. <a href='https://drive.google.com/file/d/1MjdQsSIcWzqYmCAlOtPxAUrDTjWn4R7z/view?usp=sharing'>Git Notes For Professionals</a>
+147. <a href='https://drive.google.com/file/d/1pzeHTP3QlEeZNIuRtm_4W46DGrKiFARf/view?usp=sharing'>Math-Deep</a>
+148. <a href='https://drive.google.com/file/d/1ypK3JSLT2w-GrxLuBnnbCNbWpanR2p1N/view?usp=sharing'>Algorithms Notes For Professionals</a>
+149. <a href='https://drive.google.com/file/d/1-ykNSBSCtqYgKSMe3blk0MDQfYI7DrAm/view?usp=sharing'>Introduction to algorithms</a>
+150. <a href='https://drive.google.com/file/d/1TcINnJfpRUHqFBN6LMuiIufp0MGueMkJ/view?usp=sharing'>R Programming</a>
+151. <a href='https://drive.google.com/file/d/1IBKsRM5gs8QvrajuP2dM7SmjWL0xBHN-/view?usp=sharing'>R Inferno</a>
+152. <a href='https://drive.google.com/file/d/1NnHm0BnTOgsobbDLj172m9HGnzzFmuOX/view?usp=sharing'>R Data Mining Slides</a>
