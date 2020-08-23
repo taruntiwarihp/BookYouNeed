@@ -1,8 +1,16 @@
 #### Subjects
  Python(Machine Learning, Deep Learning, Beautiful Soup, Statistis, Cryptography, Data Science, Black-Gray Hat, Computer Science, FullStack, Flask, Django, Pandas, Numpy, 
- Raspberry PI, Scipy, Scikit, Tensorflow, Pytorch, Games, NLP, Tkinter, Data Analysit), C, C++, Java, SQL
+ Raspberry PI, Scipy, Scikit, Tensorflow, Pytorch, Games, NLP, Tkinter, Data Analysit)
+ * C
+ * C++
+ * Java
+ * SQL
+ * Math
+ * Linux
+ * AWK
+ * R 
 <hr>
-Books, Guides, Notes and Research Paper
+Books, Guides, Notes, Slides Question Papers and Research Papers.
 
 1. <a href='https://drive.google.com/file/d/1dC5XeQxu1jNzZtVdACPYJOq9yc07MDY7/view?usp=sharing'>Advanced Statistical Computing</a>
 2. <a href='https://drive.google.com/file/d/1i_EfRe0lc6Mq_3DWgPn6WZ7FPxh06eKG/view?usp=sharing'>Applied Cryptography_ Protocols, Algorithms, and Source Code in C</a>
@@ -145,3 +153,14 @@ Books, Guides, Notes and Research Paper
 139. <a href='https://drive.google.com/file/d/1QhUydZRp7dUXwP1jmm9cXxmMk8yhAm78/view?usp=sharing'>Real-World Machine Learning </a>
 140. <a href='https://drive.google.com/file/d/1wYnRqMNLsJWPbPVD-r4m9-YJom0ieKmU/view?usp=sharing'>TensorFlow 2.0</a>
 141. <a href='https://drive.google.com/file/d/1T10UxwhaFHH7xj6h23AYFmol76GGDPtL/view?usp=sharing'>Text Analytics with Python</a>
+142. <a href=''>Linux - Bash Notes for Professionals</a>
+143. <a href=''>The AWK Programming Language</a>
+144. <a href=''>SQL Queries Succinctly</a>
+145. <a href=''>SQL Notes For Professionals</a>
+146. <a href=''>Git Notes For Professionals</a>
+147. <a href=''>Math-Deep</a>
+148. <a href=''>Algorithms Notes For Professionals</a>
+149. <a href=''>Introduction to algorithms</a>
+150. <a href=''>R Programming</a>
+151. <a href=''>R Inferno</a>
+152. <a href=''>R Data Mining Slides</a>
